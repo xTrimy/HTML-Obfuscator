@@ -6,15 +6,13 @@
 <hr>
 
 ## IMPORTANT NOTES
-1- Make a backup before use.
-2- DON'T use if you have dublicate class names in your css files.
+1- Make a backup before use. <br>
+2- DON'T use if you have dublicate class names in your css files. <br>
 3- HTML Obfuscator only change class names in the HTML, CSS and PHP files and doesn't change IDs for now 
-<hr>
 
 ## HOW TO USE
-1- Put your HTML files in the same directory as HTML Obfuscator.py
-2- Put your CSS files in the directory "stylesheets"
-<hr>
+1- Put your HTML files in the same directory as HTML Obfuscator.py <br>
+2- Put your CSS files in the directory "stylesheets" <br>
 
 ### Example for how it works :
 
