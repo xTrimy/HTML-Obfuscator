@@ -13,7 +13,7 @@
 
 ## HOW TO USE
 1- Put your HTML files in the same directory as HTML Obfuscator.py <br>
-2- Put your CSS files in the directory "stylesheets" <br>
+2- Put your CSS files in a directory called "stylesheets". <br>
 
 ### Example for how it works :
 
