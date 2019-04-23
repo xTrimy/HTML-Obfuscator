@@ -1,5 +1,4 @@
 # HTML-Obfuscator 
-## by xTrimy
 
 ### Obfuscate class names in HTML, PHP and CSS Files
 
@@ -8,7 +7,7 @@
 ## IMPORTANT NOTES
 1- Make a backup before use. <br>
 2- DON'T use if you have dublicate class names in your css files. <br>
-3- HTML Obfuscator only change class names in the HTML, CSS and PHP files and doesn't change IDs for now <br>
+3- HTML Obfuscator only changes class names in the HTML, CSS and PHP files and doesn't change it in JavaScript<br>
 4- Not all class names will be changed automatically so, some class names will need to be changed manually
 
 ## HOW TO USE
